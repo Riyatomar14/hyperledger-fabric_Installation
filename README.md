@@ -73,21 +73,24 @@ curl -sSL http://bit.ly/2ysbOFE | bash -s
 
 ![image](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/f5ec76d3-6acc-4707-88bd-1e97bd14a63f)
 
-* c) Open the fabric-samples and go to the first-network.
+* C) Open the fabric-samples and go to the first-network.
 
-  ```
+```
 cd fabric-samples/first-network
-  ```
+```
 
 ![image](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/4737db60-f792-402e-8ad6-7b33aa2cf65d)
 
 ![image](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/2bba1dd0-7770-48a6-9c10-d6bb4d67da0f)
 
+
 * D) To test it, run the ```network.sh``` . It is a test script, it first set up the network with 2 organizations org1 and org2 with 2 peers each and an orderer .
+
 
 ```
 ./network.sh up
-````
+```
+
 
 ![Screenshot 2024-04-29 215224](https://github.com/Riyatomar14/coding-in-advance-c/assets/143107173/c8660b4f-2e2c-44d3-bc83-7e40898aaa97)
 
